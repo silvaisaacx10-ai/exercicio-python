@@ -1,12 +1,12 @@
-    # Relação de exercícios - Desenvolvimento em Python
+# Relação de exercícios - Desenvolvimento em Python
 
 
-    ### Descrição 
+### Descrição 
 
-    Esse reposítorio destina-se ao armazenamento de exercícios práticos realizados em sala aula, durante o ensino da UC de Desenvolvimento em Python, sob a supervisão e orientação do professor [Leonardo Rocha](https://www.github.com/leonardossrocha).
+Esse reposítorio destina-se ao armazenamento de exercícios práticos realizados em sala aula, durante o ensino da UC de Desenvolvimento em Python, sob a supervisão e orientação do professor [Leonardo Rocha](https://www.github.com/leonardossrocha).
 
 
-    ## Autor
+## Autor
 
-    [Isaac Silva](https://www.github.com/silvaisaacx10-ai)
+[Isaac Silva](https://www.github.com/silvaisaacx10-ai)
 
